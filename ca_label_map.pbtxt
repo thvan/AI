@@ -1,0 +1,25 @@
+item {
+    name: "ca chem",
+    id: 1,
+    display_name: "ca chem"
+}
+item {
+    name: "ca hoi",
+    id: 2,
+    display_name: ""ca hoi
+}
+item {
+    name: "ca ngu",
+    id: 3,
+    display_name: "ca ngu"
+}
+item {
+    name: "ca ro phi",
+    id: 4,
+    display_name: "ca ro phi"
+}
+item {
+    name: "ca tra",
+    id: 5,
+    display_name: "ca tra"
+}
